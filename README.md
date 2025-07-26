@@ -12,3 +12,12 @@ It’s a simple but sincere way of saying: “Thank you.”
 
 This is a personal, fan-made project with no commercial intent.  
 UNDERTALE is property of Toby Fox. This letter is simply a tribute made out of love and admiration.
+
+---
+
+## 🎶 Music Credits
+
+The background music is a fan cover of a track from *DELTARUNE*, composed by Toby Fox.  
+This cover was created by *Fonzi M*
+
+🔗 Original Cover on YouTube: https://www.youtube.com/watch?v=NF9GsG6goGA
